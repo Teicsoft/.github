@@ -9,7 +9,7 @@ This is a private community, who are branching out into a bit of game design.
 ***
 
 ## Projects
-* [Spectacle Card Game](https://github.com/Teicsoft/SpectacleCardGame) _Our first project_
+* [Spectacle Card Game](https://github.com/Teicsoft/SpectacleCardGame) _Our first game dev project_
 
 ***
 
